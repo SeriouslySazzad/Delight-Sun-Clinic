@@ -1,0 +1,12 @@
+.single-dept {
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(245, 222, 179, 0.383);
+    border: 2px solid mediumturquoise;
+    border-radius: 20px;
+}
+
+.single-dept img {
+    width: 100%;
+    border-radius: 20px;
+}

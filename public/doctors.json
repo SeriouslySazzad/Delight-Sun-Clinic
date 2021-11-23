@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Prof. Dr. Pran Gopal Datta",
+        "degree": "MBBS, MCPS, ACORL, PhD, MSc (Audiology), FCPS (ENT), FRCS (Glasgow)",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "speciality": "Ear, Nose & Throat Specialist & Head Neck Surgeon",
+        "institute": "Bangabandhu Sheikh Mujib Medical University Hospital"
+    },
+    {
+        "id": 2,
+        "name": "Prof. Dr. M.N. Huda",
+        "degree": "MBBS (DMC), DDV (DU), FCPS (Skin & Sex)",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "speciality": "Expert Dermatologist, Sexologist & Venereologist",
+        "institute": "Dhaka Medical College & Hospital"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Shamim Boksha",
+        "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "speciality": "Gastroenterology, Medicine & Liver Diseases Specialist",
+        "institute": "National Hospital, Chittagong"
+    },
+    {
+        "id": 4,
+        "name": "Prof. Dr. Syed Atiqul Haq",
+        "degree": "MBBS, FCPS (Medicine), FRCP, MD (Rheumatology)",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "speciality": "Rheumatology & Medicine Specialist",
+        "institute": "Bangabandhu Sheikh Mujib Medical University Hospital"
+    },
+    {
+        "id": 5,
+        "name": "Prof. Dr. Quazi Deen Mohammad",
+        "degree": "MBBS, MD (Neurology), FCPS (Medicine), Fellow in Neurology (USA)",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "speciality": "Neurology & Medicine Specialist",
+        "institute": "National Institute of Neurosciences & Hospital"
+    },
+    {
+        "id": 6,
+        "name": "Dr. Md. Hasanuzzaman",
+        "degree": "MBBS, FCPS (Medicine), MD (Neurology)",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "speciality": "Brain, Stroke, Nerve, Medicine & Neuromedicine Specialist",
+        "institute": "Chittagong Medical College & Hospital"
+    },
+    {
+        "id": 7,
+        "name": "Prof. Dr. Mansurul Alam",
+        "degree": "MBBS, FCPS, MD, PHD, FRCP (GLASGOW)",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "speciality": "Skin & Sexual Diseases Specialist",
+        "institute": "Chittagong Medical College & Hospital"
+    },
+    {
+        "id": 8,
+        "name": "Prof. Dr. Mamun Al Mahtab Shwapnil",
+        "degree": "MBBS, MSc (Gastro), MD (Hepatology), FACG (USA), FICP (India), FRCP (Ireland), FRCP (UK)",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "speciality": "Hepatologist & Gastroenterologist",
+        "institute": "Bangabandhu Sheikh Mujib Medical University Hospital"
+    },
+    {
+        "id": 9,
+        "name": "Prof. Dr. Md. Hafizur Rahman",
+        "degree": "MBBS (DMC), DEM (BIRDEM), MD (Endocrinology), MACE (USA)",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "speciality": "Diabetes, Thyroid & Hormone Specialist",
+        "institute": "Dhaka Medical College & Hospital"
+    },
+    {
+        "id": 10,
+        "name": "Prof. Dr. M. U. Kabir Chowdhury",
+        "degree": "MBBS, DDV (Vienna), AFICA (USA), FRCP (Glasgow)",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "speciality": "Skin, Allergy & Sexual Diseases Specialist",
+        "institute": "Holy Family Red Crescent Medical College & Hospital"
+    },
+    {
+        "id": 11,
+        "name": "Dr. Shibly Hayder",
+        "degree": "MBBS, MD (Cardiology)",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "speciality": "Cardiology & Hypertension Specialist",
+        "institute": "Shaheed Ziaur Rahman Medical College & Hospital"
+    },
+    {
+        "id": 12,
+        "name": "Prof. Dr. Md. Mojibar Rahman Selim",
+        "degree": "MBBS, DTCD, MD (Cardiology), PhD, WHO Fellow (Interventional Cardiology)",
+        "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-75x85.jpg",
+        "speciality": "Cardiology & Chest Diseases Specialist",
+        "institute": "Shaheed Ziaur Rahman Medical College & Hospital"
+    }
+]

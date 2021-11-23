@@ -1,0 +1,22 @@
+.single-service {
+    display: flex;
+    background-color: rgba(255, 235, 205, 0.616);
+    border: 1px solid rgba(34, 139, 34, 0.801);
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+
+.single-service img {
+    width: 300px;
+    height: 200px;
+    /* margin-top: 30px; */
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+@media only screen and (max-width:688px) {
+    .single-service {
+        display: block;
+    }
+}
+

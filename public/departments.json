@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Cardiology",
+        "desc": "Cardiology is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease and electrophysiology",
+        "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/06/Depositphotos_24648537_original-400x400.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dental",
+        "desc": "Dental treatments are carried out by a dental team, which often consists of a dentist and dental auxiliaries (dental assistants, dental hygienists, dental technicians, as well as dental therapists). Most dentists either work in private practices. It is very neccessary treatment for people.",
+        "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2015/02/Depositphotos_5711983_original-400x400.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Neurology",
+        "desc": "Neurology is a branch of medicine dealing with disorders of the nervous system. Neurology deals with the diagnosis and treatment of all categories of conditions and disease involving the central and peripheral nervous systems, including their coverings, blood vessels, and all effector tissue.",
+        "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/03/Depositphotos_42539851_department.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Paediatrics",
+        "desc": "Paediatrics is the branch of medicine that involves the medical care of infants, children, and adolescents. The American Academy of Pediatrics recommends people seek pediatric care through the age of 21. In the United Kingdom, paediatrics covers patients until age 18. It is very bad disease.",
+        "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/06/Depositphotos_11882261_original-400x400.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Pulmonary",
+        "desc": "Pulmonary hypertension is high blood pressure in the blood vessels that supply the lungs (pulmonary arteries). It's a serious condition that can damage the right side of the heart. The walls of the pulmonary arteries become thick and stiff, and cannot expand as well to allow blood through.",
+        "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/03/Depositphotos_10069934_original-400x400.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Traumatology",
+        "desc": "In medicine, traumatology (from Greek trauma, meaning injury or wound) is the study of wounds and injuries caused by accidents or violence to a person, and the surgical therapy and repair of the damage. Traumatology is a branch of medicine. It is often considered a subset of surgery.",
+        "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/03/Depositphotos_11295039_original-400x400.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Urology",
+        "desc": "Urology (from Greek οὖρον ouron urine and -λογία -logia study of), also known as genitourinary surgery, is the branch of medicine that focuses on surgical and medical diseases of the male and female urinary-tract system and the male reproductive organs. Organs under the domain of urology.",
+        "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/03/Depositphotos_42548065_original-400x400.jpg"
+    },
+    {
+        "id": 8,
+        "name": "X-Ray",
+        "desc": "An X-ray, or, much less commonly, X-radiation, is a penetrating form of high-energy electromagnetic radiation. Most X-rays have a wavelength ranging from 10 picometers to 10 nanometers, corresponding to frequencies in the range 30 petahertz to 30 exahertz and energies in the range 124 eV.",
+        "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/03/Depositphotos_80150830_original-400x400.jpg"
+    }
+]

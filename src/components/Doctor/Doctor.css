@@ -1,0 +1,7 @@
+.doctor {
+    font-weight: 700;
+    background-color: rgba(240, 230, 140, 0.418);
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px dashed salmon;
+}

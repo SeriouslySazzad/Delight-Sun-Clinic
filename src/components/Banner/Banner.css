@@ -1,0 +1,44 @@
+
+
+
+/* .banner-container {
+    background-color: black;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 50px;
+    height: 400px;
+}
+
+.banner-left h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.banner-left {
+    margin-top: 70px;
+    border: none;
+}
+
+.banner-right img{
+ width: 500px;
+ border-radius: 20px;
+ margin-top: 30px;
+}
+
+@media only screen and (max-width:688px) {
+    .banner-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .banner-right img {
+        display: none;
+    }
+}
+
+@media only screen and (min-width:689px) and (max-width:992px){
+    .banner-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .banner-right img {
+        display: none;
+    }
+} */

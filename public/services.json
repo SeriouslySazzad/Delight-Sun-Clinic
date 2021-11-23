@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Mental Health Care",
+        "img": "https://tinyurl.com/njw3ad4w",
+        "desc": "Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices."
+    },
+    {
+        "id": "2",
+        "name": "Nutritional Counseling",
+        "img": "https://tinyurl.com/es2dhpjs",
+        "desc": "A process by which a health professional with special training in nutrition helps people make healthy food choices and form healthy eating habits. In cancer treatment, the goal of nutritional counseling."
+    },
+    {
+        "id": "3",
+        "name": "Genetic Counseling",
+        "img": "https://tinyurl.com/kmcumdhs",
+        "desc": "Genetic counseling is the process of advising individuals and families affected by or at risk of genetic disorders to help them understand and adapt to the medical, psychological and familial implications."
+    },
+    {
+        "id": "4",
+        "name": "Home Nursing",
+        "img": "https://tinyurl.com/wau4xbe",
+        "desc": "Our Family Nursing home services bd involve a holistic approach. Nursing home Care BD aims to Increase healthy families in dhaka, Bangladesh. The health of a family member can affect the others."
+    },
+    {
+        "id": "5",
+        "name": "Therapy and Rehabilitation",
+        "img": "https://tinyurl.com/yepk6ap2",
+        "desc": "Physical therapy, also known as physiotherapy, is one of the allied health professions. It is provided by physical therapists who promote, maintain, or restore health through physical examination."
+    },
+    {
+        "id": "6",
+        "name": "Short-Term Hospitalization",
+        "img": "https://tinyurl.com/3j772yfe",
+        "desc": "In recent years there has been a significant decrease in the length of hospital stays for psychiatric patients. The author examines whether the shorter stays are justified by results."
+    }
+]
